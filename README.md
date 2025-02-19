@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Hadyy 👋
 
-<!--
-**Hadylol/Hadylol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 **What I'm Up To**
+- Learning **Machine Learning** and AI.
+- Working on personal projects to improve my skills.
+- Experimenting with **Git**, **Linux**, and **Neovim** for development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Skills**
+#### Languages:
+- **Python** 
+- **JavaScript** 
+- **Go** 
+
+#### Tools:
+- **Git** & GitHub
+- **Linux** 🐧
+- **Neovim** ✨
+
+---
+
+### 📫 **How to Reach Me**
+- **Twitter (X):** [@Hadyylol](https://x.com/Hadyylol) 🐦
+- **Discord:** pinkzeppli
+- **Website:** soon lol
