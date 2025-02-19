@@ -1,4 +1,4 @@
-# Hey, I'm Hadyy 👋
+#  I'm Hadyy 
 
 ---
 ### 🌱 **What I'm Up To**
