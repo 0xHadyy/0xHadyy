@@ -7,4 +7,3 @@
 ---
 ### 📫 **How to Reach Me**
 - **Discord:** pinkzeppli
-- **Website:** soon lol
