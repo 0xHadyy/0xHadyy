@@ -6,4 +6,4 @@
 - Working on **bots** and **backend systems** .
 ---
 ### 📫 **How to Reach Me**
-- **Discord:** pinkzeppli
+- **Twitter/X:** @Hadyylol
