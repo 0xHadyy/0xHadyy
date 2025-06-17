@@ -1,8 +1,7 @@
 #  I'm Hadyy 
 
----
 ### 🌱 **What I'm Up To**
-- Learning **Machine Learning** .
+- Studying **Machine Learning** .
 - Working on **bots** and **backend systems** .
 ---
 ### 📫 **How to Reach Me**
