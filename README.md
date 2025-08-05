@@ -8,9 +8,9 @@
 
 ## 🚀 Projects
 
-- **📘 ML Theory & Math Notes**  
-  Deep notes and derivations from *An Introduction to Statistical Learning*. Includes math, Python code, and PDFs.  
-  → [Repo](https://github.com/0xHadyy/isl-python)
+- **📘 ML Theory & Notebooks**  
+  ML notes and derivations from *An Introduction to Statistical Learning*. Includes math, Python code, and PDFs.  
+  → [Repository](https://github.com/0xHadyy/isl-python)
 
 
 ## 📫 Contact
