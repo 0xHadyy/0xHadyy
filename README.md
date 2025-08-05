@@ -6,7 +6,7 @@
 - Building real projects with end-to-end pipelines, clean code, and full documentation.
 - Sharing my progress and explaining **ML/DS** on my YT-Channel
 
-## 🚀 Projects
+## Projects
 
 - **📘 ML Theory & Notebooks**  
   ML notes and derivations from *An Introduction to Statistical Learning*. Includes math, Python code, and PDFs.  
