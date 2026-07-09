@@ -12,7 +12,10 @@
   ML notes and derivations from *An Introduction to Statistical Learning*. Includes math, Python code, and PDFs.  
   → [Repository](https://github.com/0xHadyy/isl-python)
 
-
+- **FraKcture**  
+  End-to-end NLP project & Study Case that analyzes *~50k* ML/AI research papers to discover latent research fields & explore how they evolved  
+  → [Repository](https://github.com/0xHadyy/FraKcture), [Live-demo](https://frakcture-4k2cpv89j5fksaqc3ecsbx.streamlit.app/)
+  
 ## 📫 Contact
 - **Email**: 0xhadyy@gmail.com  
 - **Twitter/X**: [@Hadyylol](https://twitter.com/Hadyylol)  
